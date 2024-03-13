@@ -1,2 +1,2 @@
-# website_class
-Website Kelas 6A
+# Website Kelas 6A
+Website untuk kelas
